@@ -9,4 +9,6 @@ location: "Boulder, Colorado"
 slides: 'http://academicpages.github.io/files/CitationManagementSlides.pdf'
 ---
 
-This slide deck contains my best tips and tricks to organize literature as you read.
+Scientists regularly read tens-to-hundreds of papers over several years to inform a single research project.
+How do you keep track of so much information?
+This slide deck contains my best tips and tricks.
