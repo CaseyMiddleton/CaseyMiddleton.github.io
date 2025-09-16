@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Casey! I am a post-doc at University of Melbourne with Drs. Freya Shearer and James McCaw. 
+Hi, I'm Casey! I am a post-doc at University of Melbourne with Drs. Freya Shearer and James McCaw. I am broadly interested in modeling for infectious disease dynamics.
 
 ## Education
 I received my PhD in computer science from University of Colorado Boulder in May, 2025 for my thesis entitled "Multiscale Infectious Disease Dynamics: Linking Epidemiology and Testing for Outbreak Neutralization" (did you catch the acronym?). During my PhD, I worked with [Dr. Dan Larremore](https://larremorelab.github.io/) on how we can combine within-host and between-host models to make better predictions for infectious disease dynamics. You can read more on my publications page!
