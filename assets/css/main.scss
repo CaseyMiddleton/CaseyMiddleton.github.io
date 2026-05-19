@@ -39,3 +39,6 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Reserve scrollbar space on all pages so greedy-nav width is consistent */
+html { overflow-y: scroll; }

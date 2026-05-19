@@ -8,6 +8,10 @@ tags:
 
 ![Graduation ceremony](/files/grad_speech.jpg)
 
+I was honored to be selected as the graduation speaker for the computer science commencement ceremony. Our students are graduating in a challenging hiring landscape, and I wanted to acknowledge this in what I said. Here is the text from my speech to an audience of over 3,000 people.
+
+---
+
 I know the many graduates and their loved ones sitting here today come from diverse walks of life. And yet, I think we all share the same thought when we look around our modern world:
 
 *"Everything's computer!"*
