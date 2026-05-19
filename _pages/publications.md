@@ -13,8 +13,8 @@ author_profile: true
   border-bottom: 1px solid #eaecef;
 }
 .pub-entry:last-child { border-bottom: none; }
-.pub-title { font-size: 1.05em; font-weight: 600; }
-.pub-authors { margin: 0.15em 0 0.1em; }
+.pub-title { font-size: 1.05em; font-weight: 600; margin-bottom: 0; }
+.pub-authors { margin: 0.05em 0 0.1em; }
 .pub-venue { margin: 0; color: #555; }
 </style>
 

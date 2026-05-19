@@ -45,10 +45,12 @@ At Rhodes, I got an early start in mathematical modeling through published resea
 After finishing at Rhodes, I spent two years in the Memphis non-profit sector using GIS and data analytics to advocate for more equitable housing policy.
 
 - **AmeriCorps VISTA, Neighborhood Preservation Inc.** — I wrote a *Rental Property Management Scorecard* using publicly available data to score landlords on how well they maintain their properties. This work contributed directly to the passage of a **rental license ordinance** requiring regular property inspections.
-- **Memphis Mayor's Dashboard** — Worked on special projects including qualitative analysis of false security alarm triggers and local public transit improvements. Between the two roles, I also spent a semester teaching tenth grade geometry — a pivot I didn't expect to love as much as I did.
+- **Memphis Mayor's Dashboard** — Worked on special projects including qualitative analysis of false security alarm triggers and local public transit improvements. 
+
+Between the two roles, I also spent a semester teaching tenth grade geometry — a pivot I didn't expect to love as much as I did.
 
 ---
 
 ## Hobbies
 
-Outside of research, you'll find me rock climbing, distance running, or working on a hand embroidery project. Boulder has been an incredible place to spend my PhD years, and I'm genuinely excited to trade the Rockies for a new adventure in Melbourne, Australia!
+Outside of research, you'll find me rock climbing, distance running, or working on a hand embroidery project. Boulder has been an incredible place to spend my PhD years, but I'm excited to trade mountain adventures for ocean adventures in Melbourne, Australia!
