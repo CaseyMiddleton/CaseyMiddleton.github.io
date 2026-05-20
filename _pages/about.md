@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+seo_title: "Casey Middleton | Infectious Disease Modeler & Researcher"
 author_profile: true
 redirect_from: 
   - /about/

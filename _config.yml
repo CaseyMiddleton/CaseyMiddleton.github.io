@@ -8,10 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Casey Middleton"
-title_separator          : "-"
-name                     : &name "Dr. Casey Middleton"
-description              : &description "Description here"
+title                    : "Casey E. Middleton, PhD"
+title_separator          : "|"
+name                     : &name "Casey E. Middleton, PhD"
+description              : &description "Personal website of Casey E. Middleton, PhD. Researcher specializing in infectious disease modeling."
+keywords                 : "Casey Middleton, Casey E. Middleton, C.E. Middleton, infectious disease modeling, computer science, Boulder, Melbourne, vaccine effectiveness"
 url                      : https://CaseyMiddleton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CaseyMiddleton/CaseyMiddleton.github.io"
@@ -22,7 +23,7 @@ repository               : "CaseyMiddleton/CaseyMiddleton.github.io"
 author:
   # Biographic information
   avatar           : "headshot.jpg"
-  name             : "Dr. Casey Middleton"
+  name             : "Casey E. Middleton, PhD"
   pronouns         : "she/her"  
   bio              : "Infectious Disease Modeling"
   location         : "Boulder, CO"
